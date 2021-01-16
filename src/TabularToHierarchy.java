@@ -2,7 +2,7 @@ import java.util.*;
 
 public class TabularToHierarchy {
 	
-	final static String path = "F:\\Engineering\\AsanifyAssignment\\hierarchy_case\\hierarchy_case_20May2020.xlsx";
+	final static String path = "F:\\Engineering\\Assignment\\hierarchy_case\\hierarchy_case_20May2020.xlsx";
 
 	public static void main(String[] args) {
 		
